@@ -1,5 +1,5 @@
 <?php
-
+require 'vendor/autoload.php';
 use mnshankar\civics\QuestionService;
 
 class CivicsTest extends PHPUnit_Framework_TestCase {
