@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mnshankar/civics.svg?branch=master)](https://travis-ci.org/mnshankar/civics)
+
 # civics
 US Naturalization Test Flash Cards. Because.. ignorance is not cool :-)
 
