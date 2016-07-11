@@ -1,5 +1,5 @@
 # civics
-US Naturalization Test Flash Cards. Because.. ignorance is not cool!
+US Naturalization Test Flash Cards. Because.. ignorance is not cool :-)
 
 This Laravel 5+ package provides an easy drop-in package to help you brush up on your (US) civic knowledge.
 
