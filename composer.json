@@ -1,0 +1,23 @@
+{
+    "name": "mnshankar/civics",
+    "description": "US Citizenship Test Easy Prep",
+    "keywords": ["laravel", "Civics","N400","Naturalization"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shankar Manamalkav",
+            "email": "mnshankar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mnshankar\\civics\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support": "~5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
