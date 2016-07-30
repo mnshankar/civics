@@ -10,6 +10,8 @@ Within your laravel 5 project,
 ```
 composer require "mnshankar/civics"
 ```
+(Use Tag v0.9 for Laravel 5.0 and 5.1 and Use Tag v1.0 for Laravel 5.2)
+
 Next, add the service provider to your providers array in app/config/app.php:
 ```
 mnshankar\civics\CivicsServiceProvider::class,
